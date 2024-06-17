@@ -1,0 +1,8 @@
+title: Car
+originalAuthor: Kangdide
+description: Riding Round Town Like I'm Judge Joe Brown
+assets:
+- name: obj\F_EH060.mdlx
+  method: copy
+  source:
+  - name: Cool-fromDAE.mdlx
